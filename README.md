@@ -1,5 +1,6 @@
 # [Яндекс.Практикум Аналитик данных (Data Analyst)](https://praktikum.yandex.ru/data-analyst/)
 ## Мои учебные проекты
+<hr>
 ### 1. [Исследование надежности заёмщиков](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/1.%20Исследование%20надежности%20заёмщиков.ipynb)
 
 **Задача:**
