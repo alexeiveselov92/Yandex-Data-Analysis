@@ -9,6 +9,7 @@
 
 **Библиотеки:**
 pandas, pymystem3
+<hr>
 
 ### 2. [Исследование объявлений о продаже квартир](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/2.%20Исследование%20объявлений%20о%20продаже%20квартир.ipynb)
 
@@ -17,6 +18,7 @@ pandas, pymystem3
 
 **Библиотеки:**
 pandas, matplotlib.pyplot, math, numpy
+<hr>
 
 ### 3. [Определение перспективного тарифа для телеком компании](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/3.%20Определение%20перспективного%20тарифа%20для%20телеком%20компании.ipynb)
 
@@ -25,6 +27,7 @@ pandas, matplotlib.pyplot, math, numpy
 
 **Библиотеки:**
 pandas, matplotlib.pyplot, math, numpy, scipy
+<hr>
 
 ### 4. [Аналитика в Яндекс.Афише](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/4.%20Аналитика%20в%20Яндекс.Афише.ipynb)
 
@@ -33,6 +36,7 @@ pandas, matplotlib.pyplot, math, numpy, scipy
 
 **Библиотеки:**
 pandas, matplotlib.pyplot, seaborn, math, numpy, scipy
+<hr>
 
 ### 5. [Анализ результатов A/B теста в интернет магазине](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/5.%20Анализ%20результатов%20AB%20теста%20в%20интернет%20магазине.ipynb)
 
