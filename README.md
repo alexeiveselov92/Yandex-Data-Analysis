@@ -45,6 +45,7 @@ pandas, matplotlib.pyplot, seaborn, math, numpy, scipy
 
 **Библиотеки:**
 pandas, matplotlib.pyplot, seaborn, math, numpy, scipy
+<hr>
 
 ### 6. [Анализ рынка общественного питания Москвы](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/6.%20Анализ%20рынка%20общественного%20питания%20Москвы.ipynb)
 
@@ -53,6 +54,7 @@ pandas, matplotlib.pyplot, seaborn, math, numpy, scipy
 
 **Библиотеки:**
 pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy
+<hr>
 
 ### 7. [Внедрение чата с менеджером на сайт - A/B тестирование результатов](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/Внедрение%20чата%20с%20менеджером%20на%20сайт%20-%20AB%20тестирование%20результатов.ipynb)
 
@@ -61,6 +63,7 @@ pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy
 
 **Библиотеки:**
 pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy
+<hr>
 
 ### 8. [Прогноз оттока посетителей из сети фитнесс-центров](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/8.%20Прогноз%20оттока%20посетителей%20из%20сети%20фитнесс-центров.ipynb)
 
@@ -69,6 +72,7 @@ pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy
 
 **Библиотеки:**
 pandas, math, scipy, numpy, matplotlib.pyplot, seaborn, sklearn
+<hr>
 
 ### 9. [Выявление профилей потребления покупателей магазина](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/9.%20Выявление%20профилей%20потребления%20покупателей%20магазина.ipynb)
 
