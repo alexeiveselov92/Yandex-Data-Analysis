@@ -17,7 +17,7 @@
 Определение рыночной стоимости объектов недвижимости (на базе данных ресурса Яндекс.Недвижимость). Задача — установить параметры, которые в той или иной степени оказывают влиение на финальную стоимость. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.
 
 **Библиотеки:**
-pandas, matplotlib.pyplot, math, numpy
+`pandas, matplotlib.pyplot, math, numpy`
 <hr>
 
 ### 3. [Определение перспективного тарифа для телеком компании](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/3.%20Определение%20перспективного%20тарифа%20для%20телеком%20компании.ipynb)
@@ -26,7 +26,7 @@ pandas, matplotlib.pyplot, math, numpy
 Анализ тарифов мобильного оператора. Необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
 
 **Библиотеки:**
-pandas, matplotlib.pyplot, math, numpy, scipy
+`pandas, matplotlib.pyplot, math, numpy, scipy`
 <hr>
 
 ### 4. [Аналитика в Яндекс.Афише](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/4.%20Аналитика%20в%20Яндекс.Афише.ipynb)
@@ -35,7 +35,7 @@ pandas, matplotlib.pyplot, math, numpy, scipy
 Стажировка в отделе аналитики Яндекс.Афиши. Задача: помочь маркетологам оптимизировать маркетинговые затраты. Расчет бизнес-метрик: Retention, LTV, CAC, ROMI.
 
 **Библиотеки:**
-pandas, matplotlib.pyplot, seaborn, math, numpy, scipy
+`pandas, matplotlib.pyplot, seaborn, math, numpy, scipy`
 <hr>
 
 ### 5. [Анализ результатов A/B теста в интернет магазине](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/5.%20Анализ%20результатов%20AB%20теста%20в%20интернет%20магазине.ipynb)
@@ -44,7 +44,7 @@ pandas, matplotlib.pyplot, seaborn, math, numpy, scipy
 Есть список гипотез для увеличения выручки. Приоритезация гипотез, запуск A/B-теста и анализ рехультатов.
 
 **Библиотеки:**
-pandas, matplotlib.pyplot, seaborn, math, numpy, scipy
+`pandas, matplotlib.pyplot, seaborn, math, numpy, scipy`
 <hr>
 
 ### 6. [Анализ рынка общественного питания Москвы](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/6.%20Анализ%20рынка%20общественного%20питания%20Москвы.ipynb)
@@ -53,7 +53,7 @@ pandas, matplotlib.pyplot, seaborn, math, numpy, scipy
 Решено открыть небольшое кафе в Москве. Оно оригинальное — гостей должны обслуживать роботы. Проект многообещающий, но дорогой. Инвесторов интересует текущее положение дел на рынке — сможет ли кафе снискать популярность на долгое время, когда все зеваки насмотрятся на роботов-официантов? Исследуем рынок. У нас есть открытые данные о заведениях общественного питания в Москве.
 
 **Библиотеки:**
-pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy
+`pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy`
 <hr>
 
 ### 7. [Внедрение чата с менеджером на сайт - A/B тестирование результатов](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/Внедрение%20чата%20с%20менеджером%20на%20сайт%20-%20AB%20тестирование%20результатов.ipynb)
@@ -62,7 +62,7 @@ pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy
 Изучение воронки продаж в интернет магазине. Анализ результатов A/B теста при внедрении чата с менеджером на сайт.
 
 **Библиотеки:**
-pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy
+`pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy`
 <hr>
 
 ### 8. [Прогноз оттока посетителей из сети фитнесс-центров](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/8.%20Прогноз%20оттока%20посетителей%20из%20сети%20фитнесс-центров.ipynb)
@@ -71,7 +71,7 @@ pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy
 Построение модели прогнозирования факта оттока посетителей сети фитнесс-центров. Сегментация посетителей.
 
 **Библиотеки:**
-pandas, math, scipy, numpy, matplotlib.pyplot, seaborn, sklearn
+`pandas, math, scipy, numpy, matplotlib.pyplot, seaborn, sklearn`
 <hr>
 
 ### 9. [Выявление профилей потребления покупателей магазина](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/9.%20Выявление%20профилей%20потребления%20покупателей%20магазина.ipynb)
@@ -80,4 +80,4 @@ pandas, math, scipy, numpy, matplotlib.pyplot, seaborn, sklearn
 Сегментация покупателей по истории их покупок для создания специальных предложений. 
 
 **Библиотеки:**
-pandas, math, scipy, numpy, matplotlib.pyplot, seaborn, plotly, sklearn
+`pandas, math, scipy, numpy, matplotlib.pyplot, seaborn, plotly, sklearn`
