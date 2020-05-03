@@ -57,7 +57,7 @@
 `pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy`
 <hr>
 
-### 7. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/Внедрение%20чата%20с%20менеджером%20на%20сайт%20-%20AB%20тестирование%20результатов.ipynb" target="blank">Внедрение чата с менеджером на сайт - A/B тестирование результатов</a>
+### 7. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/7.%20Внедрение%20чата%20с%20менеджером%20на%20сайт%20-%20AB%20тестирование%20результатов.ipynb" target="blank">Внедрение чата с менеджером на сайт - A/B тестирование результатов</a>
 
 **Задача:**
 Изучение воронки продаж в интернет магазине. Анализ результатов A/B теста при внедрении чата с менеджером на сайт.
