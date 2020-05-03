@@ -2,7 +2,7 @@
 ## Мои учебные проекты
 <hr>
 
-### 1. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/1.%20Исследование%20надежности%20заёмщиков.ipynb" target="_blank">Исследование надежности заёмщиков</a>
+### 1. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/1.%20Исследование%20надежности%20заёмщиков.ipynb" target="blank" rel="noreferrer">Исследование надежности заёмщиков</a>
 
 ### test. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/1.%20Исследование%20надежности%20заёмщиков.ipynb" onclick="return ! window.open(this.href);">Исследование надежности заёмщиков</a>
 
