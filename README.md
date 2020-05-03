@@ -21,7 +21,7 @@
 `pandas, matplotlib.pyplot, math, numpy`
 <hr>
 
-### 3. [Определение перспективного тарифа для телеком компании](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/3.%20Определение%20перспективного%20тарифа%20для%20телеком%20компании.ipynb)
+### 3. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/3.%20Определение%20перспективного%20тарифа%20для%20телеком%20компании.ipynb" target="blank">Определение перспективного тарифа для телеком компании</a>
 
 **Задача:**
 Анализ тарифов мобильного оператора. Необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
@@ -30,7 +30,7 @@
 `pandas, matplotlib.pyplot, math, numpy, scipy`
 <hr>
 
-### 4. [Аналитика в Яндекс.Афише](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/4.%20Аналитика%20в%20Яндекс.Афише.ipynb)
+### 4. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/4.%20Аналитика%20в%20Яндекс.Афише.ipynb" target="blank">Аналитика в Яндекс.Афише</a>
 
 **Задача:**
 Стажировка в отделе аналитики Яндекс.Афиши. Задача: помочь маркетологам оптимизировать маркетинговые затраты. Расчет бизнес-метрик: Retention, LTV, CAC, ROMI.
@@ -39,7 +39,7 @@
 `pandas, matplotlib.pyplot, seaborn, math, numpy, scipy`
 <hr>
 
-### 5. [Анализ результатов A/B теста в интернет магазине](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/5.%20Анализ%20результатов%20AB%20теста%20в%20интернет%20магазине.ipynb)
+### 5. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/5.%20Анализ%20результатов%20AB%20теста%20в%20интернет%20магазине.ipynb" target="blank">Анализ результатов A/B теста в интернет магазине</a>
 
 **Задача:**
 Есть список гипотез для увеличения выручки. Приоритезация гипотез, запуск A/B-теста и анализ рехультатов.
@@ -48,7 +48,7 @@
 `pandas, matplotlib.pyplot, seaborn, math, numpy, scipy`
 <hr>
 
-### 6. [Анализ рынка общественного питания Москвы](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/6.%20Анализ%20рынка%20общественного%20питания%20Москвы.ipynb)
+### 6. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/6.%20Анализ%20рынка%20общественного%20питания%20Москвы.ipynb" target="blank">Анализ рынка общественного питания Москвы</a>
 
 **Задача:**
 Решено открыть небольшое кафе в Москве. Оно оригинальное — гостей должны обслуживать роботы. Проект многообещающий, но дорогой. Инвесторов интересует текущее положение дел на рынке — сможет ли кафе снискать популярность на долгое время, когда все зеваки насмотрятся на роботов-официантов? Исследуем рынок. У нас есть открытые данные о заведениях общественного питания в Москве.
@@ -57,7 +57,7 @@
 `pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy`
 <hr>
 
-### 7. [Внедрение чата с менеджером на сайт - A/B тестирование результатов](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/Внедрение%20чата%20с%20менеджером%20на%20сайт%20-%20AB%20тестирование%20результатов.ipynb)
+### 7. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/Внедрение%20чата%20с%20менеджером%20на%20сайт%20-%20AB%20тестирование%20результатов.ipynb" target="blank">Внедрение чата с менеджером на сайт - A/B тестирование результатов</a>
 
 **Задача:**
 Изучение воронки продаж в интернет магазине. Анализ результатов A/B теста при внедрении чата с менеджером на сайт.
@@ -66,7 +66,7 @@
 `pandas, matplotlib.pyplot, seaborn, plotly, math, numpy, scipy`
 <hr>
 
-### 8. [Прогноз оттока посетителей из сети фитнесс-центров](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/8.%20Прогноз%20оттока%20посетителей%20из%20сети%20фитнесс-центров.ipynb)
+### 8. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/8.%20Прогноз%20оттока%20посетителей%20из%20сети%20фитнесс-центров.ipynb" target="blank">Прогноз оттока посетителей из сети фитнесс-центров</a>
 
 **Задача:**
 Построение модели прогнозирования факта оттока посетителей сети фитнесс-центров. Сегментация посетителей.
@@ -75,7 +75,7 @@
 `pandas, math, scipy, numpy, matplotlib.pyplot, seaborn, sklearn`
 <hr>
 
-### 9. [Выявление профилей потребления покупателей магазина](https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/9.%20Выявление%20профилей%20потребления%20покупателей%20магазина.ipynb)
+### 9. <a href="https://colab.research.google.com/github/alexeiveselov92/Yandex-Data-Analysis/blob/master/9.%20Выявление%20профилей%20потребления%20покупателей%20магазина.ipynb" target="blank">Выявление профилей потребления покупателей магазина</a>
 
 **Задача:**
 Сегментация покупателей по истории их покупок для создания специальных предложений. 
